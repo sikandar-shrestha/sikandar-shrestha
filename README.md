@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sikandar Shrestha and I served 6 years in US ARMY as optical fabrication laboratory specialist.
+- I did Master: Mathematics
+- I did Bachelor: Major: Physics & Mathematics Minor: Statistics
 - 👀 I’m interested in data related job.
 - I had completed data scientist certification from "simplilearn" online bootcamp on 2022.
 - 🌱 I’was doing IT training for data science at "Codeup" onsite bootcamp, San Antonio, Tx
