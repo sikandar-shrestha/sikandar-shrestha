@@ -13,3 +13,5 @@
 sikandar-shrestha/sikandar-shrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Current, i am taking training / internship type of progrom at `Divergence Academy` i have already done their course like Data foundataion, Power BI, python (supervised, unsupervised, NLP) machine learning, Power automation, SQL, 
+I have also taken `compTIA Data+` Badge certificate from microsoft. 
